@@ -8,4 +8,4 @@ My first TOP project. I'm going to be making a recipe list using the HTML I've l
 
 Not to mention the cool knowledge I've learned about the history of the internet and the WWW.
 
-Once I am complete, I will have demonstrated knowledge of elements suchs as <a href="">, <img src="", alt=""> and the different use cases for <h1-6> and <p>.
+Once I am complete, I will have demonstrated knowledge of elements suchs as <!-- <a href="">, <img src="", alt=""> and the different use cases for <h1-6> and <p> -->.
